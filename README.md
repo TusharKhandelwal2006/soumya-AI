@@ -9,12 +9,15 @@ Our solution provides instant, anonymous, and judgment-free guidance, acting as 
 
 ❗ Problem Statement
 
-Mental health issues are rising rapidly, especially among students and young adults.
-Many individuals avoid seeking help due to:
-Social stigma
-Fear of being judged
-Data privacy concerns
-Existing solutions often require login, identity, or stored personal data.
+ Mental health issues are rising rapidly, especially among students and young adults.
+ Many individuals avoid seeking help due to:
+  Social stigma
+  
+  Fear of being judged
+  
+  Data privacy concerns
+  
+  Existing solutions often require login, identity, or stored personal data.
 
 💡 Our Solution
 
